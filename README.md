@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# vm-cloud-api
-=======
 # VM Cloud API
 
 API inicial para o futuro app gamer controlar VM, jogo e streaming sem expor chaves da nuvem no APK.
@@ -75,4 +72,4 @@ npm install
 npm run check
 npm run deploy
 ```
->>>>>>> 6784857 (vm cloud api v0.1.0)
+# vm-cloud-api
