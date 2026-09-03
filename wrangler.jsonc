@@ -1,0 +1,12 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "vm-cloud-api",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-09-03",
+  "vars": {
+    "VM_PROVIDER": "mock"
+  },
+  "observability": {
+    "enabled": true
+  }
+}
